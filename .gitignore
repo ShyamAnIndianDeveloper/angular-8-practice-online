@@ -10,6 +10,7 @@ public
 
 # dependencies
 node_modules
+/node_modules
 functions/node_modules
 functions/lib
 
