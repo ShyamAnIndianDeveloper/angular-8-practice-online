@@ -1,2 +1,2 @@
 # angular-8-practice-online
-practice exercise to learn angular 8
+I created this GIT branch to practice my learning in angular 8 class training. 
